@@ -10,6 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            //commect added
+            Console.WriteLine("Main function finished");
         }
     }
 }
